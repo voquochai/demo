@@ -17,7 +17,9 @@ class App extends StatelessWidget {
             Icons.arrow_back,
             color: Color(0xFF545D68),
           ),
-          onPressed: () {},
+          onPressed: () {
+            print('xxx');
+          },
         ),
         title: Text(
           'Bahri Cakery',
