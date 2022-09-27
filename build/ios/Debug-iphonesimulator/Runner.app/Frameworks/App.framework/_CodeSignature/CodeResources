@@ -54,23 +54,11 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		1CXPQcoo0UXu9S75bAOb+BL/ecY=
+		YaFStgYM6NMNeLRdsVfTRociHcQ=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
 		P7bb/oR3EhwqCIH1M6LyTuBIWYU=
-		</data>
-		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf</key>
-		<data>
-		aVXv71VocKM5uiufwxcdX0cZlTs=
-		</data>
-		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf</key>
-		<data>
-		zNiEJ/zPv/pudMht+t3qB3K6X3M=
-		</data>
-		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf</key>
-		<data>
-		SW1Y/v6VlZUpKGJCcLfPiRgV8Do=
 		</data>
 		<key>flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
@@ -164,7 +152,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DgTAKEJ4qXpmWt/5l/fIR0CSDP77ygmbw3WH51Rgoqw=
+			nPLGXzNvzWvtX+xZeC3mGUQFV6QVVVqluneCx9GRM58=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -172,27 +160,6 @@
 			<key>hash2</key>
 			<data>
 			x6NX+tjyECiQtyzbbjyY8U2zoZ7GDbJtE+T+k/dzgI0=
-			</data>
-		</dict>
-		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BPX8XC9riGs5mnJWwtEm2jkoY/B7Eqm5npn43tBZcy8=
-			</data>
-		</dict>
-		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			u6llKD4FfwcQCCrhEWJa4BG1F4tD/WKxhB34IXK8D28=
-			</data>
-		</dict>
-		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XJTyUXUNd4NaQsSTUYgcFHVp6xmxD0+qFIFlxf7lukU=
 			</data>
 		</dict>
 		<key>flutter_assets/shaders/ink_sparkle.frag</key>
